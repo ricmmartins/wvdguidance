@@ -25,3 +25,6 @@ Steps:
 6. Click on “Backlogs”, you should be able to see “User Stories” and “Tasks” providing guidance.
 
 This should help your team to discuss, agree on acceptance criteria,  delegate ownership, create iterations, track the progress and efficiently deploy Azure Windows Virtual Desktop.
+
+
+*If you prefer just a list of links with the related information, take a look here: [https://github.com/ricmmartins/wvdguidancelinks](https://github.com/ricmmartins/wvdguidancelinks)
