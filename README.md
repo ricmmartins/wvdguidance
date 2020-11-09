@@ -10,7 +10,7 @@ Create a [DevOps Organization](https://docs.microsoft.com/en-us/azure/devops/org
 
 Steps:
 
-1. Sign in to Azure DevOps Generator using [this link](https://aka.ms/wvd/guidance) and you will be redirected directly to the **WVD Guidance Template** from the Azure Cummunity Templates.
+1. Sign in to Azure DevOps Generator using [this link](https://aka.ms/wvd/guidance) and you will be redirected directly to the **WVD Guidance Template** from the Azure Community Templates.
 
 2.	Type new project name, ex: “Windows Virtual Desktop” then select your organization.
 
