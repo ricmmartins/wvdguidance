@@ -13,9 +13,8 @@ Steps:
 1. Sign in to Azure DevOps Generator using [this link](https://aka.ms/wvd/guidance) and you will be redirected directly to the **WVD Guidance Template** from the Azure Community Templates.
 2.	Type new project name, ex: “Windows Virtual Desktop” then select your organization.
 3. Click to “Create Project”
-4. Click “Submit” then “Create Project”
-5. An Azure DevOps project will be created in your organization
-6. Click on “Backlogs”, you should be able to see “User Stories” and “Tasks” providing guidance.
+4. An Azure DevOps project will be created in your organization
+5. Click on “Backlogs”, you should be able to see “User Stories” and “Tasks” providing guidance.
 
 This should help your team to discuss, agree on acceptance criteria,  delegate ownership, create iterations, track the progress and efficiently deploy Azure Windows Virtual Desktop.
 
